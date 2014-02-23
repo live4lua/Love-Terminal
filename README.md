@@ -1,7 +1,7 @@
 Love-Terminal
 ========
 
-Simples funcionalidade de inciar o codigo pelo terminal, sem a necessidade de colocar a pasta do codigo.
+Simples funcionalidade de iniciar o código pelo terminal, sem a necessidade de colocar a pasta do código.
 
 Somente para linux.
 
