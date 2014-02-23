@@ -1,7 +1,6 @@
 #!/bin/bash
 
 var=$(pwd)
-love_file=""
 
 if [ -z $1 ]; then
  love "$var"
