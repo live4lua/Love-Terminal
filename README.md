@@ -14,7 +14,9 @@ Utilização
 ========
 	cd /home/user/PastaDoCodigo/
 	love-terminal
+	
 ou para arquivos .love
+
 	cd /home/user/PastaDoCodigo/
 	love-terminal -f MeuCodigo
 
