@@ -1,0 +1,15 @@
+#!/bin/bash
+
+var=$(pwd)
+love_file=""
+
+if [ -z $1 ]; then
+ love "$var"
+elif [ $1 = "-f" ]; then
+ if [ -z $2 ]; then
+  echo "Você deve colocar o nome do arquivo .love"
+  exit
+ else
+  love "$var/$2.love"
+ fi
+fi
